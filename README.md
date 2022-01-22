@@ -7,6 +7,7 @@
 	./Results_SE/			只使用SE协方差函数的预测结果
 	./Results_ESS/			只使用ESS协方差函数的预测结果
 	./Results_63SE+17ESS/		使用SE和ESS组合的协方差函数的预测结果
+	./References			参考文献
 	gpr.yaml			虚拟环境文件
 	predict.py			预测主程序
 	data_plotter.py		      	封装绘图给你

@@ -3,7 +3,7 @@
 
 This is my implemention of the course project for **_Stochastic Processes_**. I built an algorithm using Guassian Process Regression that preditcs the stock prices based on previous observations. The project is implemented with Python and [Scikit Learn](https://scikit-learn.org/stable/modules/classes.html?highlight=sklearn.gaussian_process#module-sklearn.gaussian_process).
 
-<div align=center><img src="./Results_63SE+17ESS/SBUX_2021_prediction.png" width=800><img/></div>
+<div align=center><img src="./Results_63SE+17ESS/SBUX/SBUX_2021_prediction.png" width=850><img/></div>
 
 ### 文件清单
 	./Data/				存放股票数据

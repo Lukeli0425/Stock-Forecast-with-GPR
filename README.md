@@ -1,5 +1,5 @@
 # Stock Forecast with GPR
-## THUEE 随机过程 Project
+## Course Project of _Stochastic Processes_
 
 This is my implemention of the course project for **_Stochastic Processes_**. I built an algorithm using Guassian Process Regression that preditcs the stock prices based on previous observations. The project is implemented with Python and [Scikit Learn](https://scikit-learn.org/stable/modules/classes.html?highlight=sklearn.gaussian_process#module-sklearn.gaussian_process).
 

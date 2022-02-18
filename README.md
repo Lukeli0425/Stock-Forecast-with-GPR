@@ -32,7 +32,7 @@ This is my implemention of the course project for **_Stochastic Processes_**. I 
 
 将股票数据csv文件放到./Data文件夹下，运行predict.py后即可在/Results文件夹查看预测结果。
 
-### 参考资料
+### References
 [1] M.Ebden, " Gaussian Processes for Regression An Quick Introduction”
 
 [2] M.T. Farrell, et al, “Gaussian Process Regression Models for Predicting Stock Trends”. 

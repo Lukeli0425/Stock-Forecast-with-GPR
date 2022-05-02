@@ -21,8 +21,8 @@ class Wrapper:
         self.__max_days = self.__company_data.max_days  # 开盘天数252天
 
         # 协方差函数
-        # kernel = 63 * RBF(length_scale=1) 
-        kernel = 17 * ExpSineSquared(length_scale=1)  
+        kernel = 63 * RBF(length_scale=1) 
+        kernel += 17 * ExpSineSquared(length_scale=1)  
         self.__iterations = 20  # 迭代次数
 
         self.__alpha = 1e-10  

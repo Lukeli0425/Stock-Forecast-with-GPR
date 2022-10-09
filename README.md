@@ -1,11 +1,12 @@
 # Stock Forecast with GPR
 ## Course Project of _Stochastic Processes_
 
-This is my implemention of the course project for **_Stochastic Processes_**. I built an algorithm using Guassian Process Regression that preditcs the stock prices based on previous observations. The project is implemented with Python and [Scikit Learn](https://scikit-learn.org/stable/modules/classes.html?highlight=sklearn.gaussian_process#module-sklearn.gaussian_process).
+This is my implemention of the course project for **_Stochastic Processes_**. 
+This repo contains the code of a Guassian Process Regression (GPR) stock prices predictor. The algorithm is implemented with Python and [Scikit Learn](https://scikit-learn.org/stable/modules/classes.html?highlight=sklearn.gaussian_process#module-sklearn.gaussian_process).
 
 <div align=center><img src="./Results_63SE+17ESS/SBUX/SBUX_2021_prediction.png" width=850><img/></div>
 
-### 文件清单
+### File List
 	./Data/				存放股票数据
 	./Results/			预测结果曲线（代码自动生成）
 	./Results_SE/			只使用SE协方差函数的预测结果
